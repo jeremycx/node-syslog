@@ -3,7 +3,7 @@
     "version": "1.1.5",
     "main": "./node-syslog",
     "engines": {
-        "node" : ">=0.8.0"
+        "node" : ">=0.6.0"
     },
     "description": "Node module to support sending messages to syslog daemon",
     "author": "Nazar Kulyk <nasar.kulyk@googlemail.com>",
